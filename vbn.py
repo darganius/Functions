@@ -1,0 +1,2 @@
+import asdqwe
+asdqwe.aaa()
